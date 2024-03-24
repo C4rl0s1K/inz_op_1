@@ -1,10 +1,11 @@
+#Pole kawdratu
 bok_a = 10.4
 pole_kwadratu = bok_a * bok_a
 
 print(pole_kwadratu)
 
 
-
+#Pole trajkata
 bok_b = 3
 bok_c = 5
 pole_prostokata = bok_b * bok_c
