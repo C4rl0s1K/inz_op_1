@@ -5,7 +5,7 @@ pole_kwadratu = bok_a * bok_a
 print(pole_kwadratu)
 
 
-#Pole trajkata
+#Pole prostokątu
 bok_b = 3
 bok_c = 5
 pole_prostokata = bok_b * bok_c
@@ -18,4 +18,6 @@ h = 6
 pole_trojkata = (podst * h)/2
 
 print(pole_trojkata)
+
+
 
