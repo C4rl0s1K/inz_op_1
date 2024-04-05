@@ -105,7 +105,7 @@ If you want nested inside  press tab
 
 ### CHECKLIST
 
-- [] unchecked
+- [ ] unchecked
 - [x] checked
 
 
